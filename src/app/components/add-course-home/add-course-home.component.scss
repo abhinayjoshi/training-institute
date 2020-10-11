@@ -1,0 +1,113 @@
+.course-heading {
+  font-weight: 700;
+}
+
+.course-divider {
+  height: 0;
+  margin: 1rem 0;
+  overflow: hidden;
+  border-top: 1px solid #e9ecef;
+}
+
+.label-heading {
+  font-weight: 700;
+}
+
+.text-area-details {
+  width: 100%;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+}
+
+.error-class {
+  border: 2px solid red;
+}
+
+.form-check {
+  padding-right: 3rem !important;
+}
+
+.label-heading {
+  font-weight: 700;
+}
+
+:host ::ng-deep  .ui-table .ui-table-thead > tr > th {
+  padding: 0.2rem 0rem;
+  font-weight: 700;
+  border: 0;
+  color: #000;
+  background-color: #ffffff;
+}
+
+:host ::ng-deep  .ui-table .ui-table-tbody > tr > td {
+  padding: 0.2rem 0.5rem;
+  border-left: 0px;
+  border-right: 0px;
+  color: #000;
+}
+
+:host ::ng-deep  .ui-table .ui-table-tbody {
+  border: 0.1rem 0rem;
+}
+
+:host ::ng-deep .ui-multiselect {
+  width: 100%;
+}
+
+:host ::ng-deep .ui-dropdown {
+  width: 100%;
+}
+
+:host ::ng-deep .ui-calendar.ui-calendar-w-btn .ui-inputtext {
+  width: 8rem;
+}
+
+:host ::ng-deep .ui-calendar .ui-datepicker {
+  min-width: 180%;
+}
+
+.btn-icon {
+  background-color: rgba(0, 0, 0, 0) !important;
+  color: #333;
+  font-size: 20px;
+  border: 0px;
+}
+
+.btn-icon-expand {
+  background-color: rgba(0, 0, 0, 0) !important;
+  color:  var(--primary);
+  border: 0px;
+}
+
+.table-container {
+  background-color: #ccc;
+}
+
+.form-check {
+  margin-left: 1rem;
+}
+
+.add-batch-btn {
+  color: var(--primary);
+  font-weight: 700;
+  margin-top: 10px;
+}
+
+.add-batch-text {
+  font-size: 12px;
+}
+
+.error-message {
+  color: red;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.error-class {
+  color: red !important;
+}
+
+
